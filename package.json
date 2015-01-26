@@ -1,0 +1,23 @@
+{
+  "name": "sails-devnull",
+  "version": "0.0.0",
+  "description": "Non-persistent out-memory adapter for Sails.js / Waterline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "waterline",
+    "memory",
+    "devnull",
+    "cqrs",
+    "sails",
+    "sails.js",
+    "sailsjs"
+  ],
+  "author": "Guilhem Augendre",
+  "license": "MIT",
+  "dependencies": {
+    "sails-memory": "^0.10.3"
+  }
+}
